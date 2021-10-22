@@ -110,18 +110,51 @@ Parameters :
 3. Spot size
 
 ### Sample1
-<img src="" width=400 height=400>
+<img src="Z_Style/2.png" width=400 height=400>	
+
 ```
+F1 : F2
+
+F2 : F3
+
+Seed : 56985
+
+Color : (0.465, 0.181, 0.148)
+
+Spot Size : 1.6153854689146487
+
 ```
 
 ### Sample2
-<img src="" width=400 height=400>
+<img src="Z_Style/52.png" width=400 height=400>	
+
 ```
+F1 : F1
+
+F2 : F2
+
+Seed : 420135
+
+Color : (0.28, 0.486, 0.087)
+
+Spot Size : 1.4430856043963218
+
 ```
 
 ### Sample3
-<img src="" width=400 height=400>
+<img src="Z_Style/87.png" width=400 height=400>	
+
 ```
+F1 : F2
+
+F2 : F3
+
+Seed : 244129
+
+Color : (0.233, 0.354, 0.119)
+
+Spot Size : 0.6440937532451008
+
 ```
 
 For more example take a look at [Z_Style]() folder
