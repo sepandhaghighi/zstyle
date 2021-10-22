@@ -85,7 +85,7 @@ Parameters :
 ```
 ```
 
-For more example take a look at [Z-Style]() folder
+For more example take a look at [Z_Style]() folder
 
 ## Technical Details
 A transformation between a square-shaped space from the Cartesian coordinate system to any arbitrary coordination like [Polar coordinate system](https://en.wikipedia.org/wiki/Polar_coordinate_system).

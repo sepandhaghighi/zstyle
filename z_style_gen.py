@@ -46,7 +46,7 @@ def line(char="*", num=70):
 
 
 if __name__ == "__main__":
-    folder_path = os.path.join(os.getcwd(),"Z_Style_NFT")
+    folder_path = os.path.join(os.getcwd(),"Z_Style")
     nft_num = 100
     art.tprint("Generative ART")
     line()

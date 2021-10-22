@@ -61,7 +61,7 @@ def line(char="*", num=70):
 
 
 if __name__ == "__main__":
-    folder_path = os.path.join(os.getcwd(),"Rand_NFT")
+    folder_path = os.path.join(os.getcwd(),"Wallpapers")
     nft_num = 50
     art.tprint("Generative ART")
     line()
