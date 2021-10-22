@@ -1,0 +1,11 @@
+F1 : 15.119*abs(x*y)**1.499
+
+F2 : 43.887*abs(x*y)**1.211-27.947*math.ceil(y**2*x)**1.893+28.325*abs(y-x)**1.869
+
+Seed : 829199
+
+Color : (0.114, 0.362, 0.007)
+
+Projection : Projection.RECTILINEAR
+
+Spot Size : 0.11166476796891181

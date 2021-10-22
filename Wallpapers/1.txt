@@ -1,0 +1,9 @@
+F1 : 26.868*math.sin(x**2)**1.985-20.662*math.ceil(x**2*y)**1.352+17.502*y**1.828
+
+F2 : 11.02*math.cos(y-x)**1.42-10.258*math.cos(y)**1.596-27.348*math.sin(y)**1.844-11.073*x-y**1.88
+
+Seed : 994436
+
+Color : dimgrey
+
+Projection : Projection.RECTILINEAR

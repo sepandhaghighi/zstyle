@@ -41,18 +41,57 @@ Parameters :
 4. Spot size
 
 ### Sample1
-<img src="" width=400 height=400>
+<img src="Wallpapers/2.png" width=400 height=400>	
+
 ```
+F1 : 30.586*y**2*x**1.59-27.055*abs(y-x)**1.646-22.722*math.cos(y**2)**1.108-26.326*math.ceil(x*y)**1.326+35.621*math.ceil(x-y)**1.706+16.248*abs(x**2*y)**1.636
+
+F2 : 45.519*math.sin(y)**1.374+2.565*abs(y**2*x)**1.416+19.316*x**1.703-14.939*x**2**1.78+31.781*math.floor(y**2*x)**1.445
+
+Seed : 690765
+
+Color : (0.167, 0.2, 0.184)
+
+Projection : Projection.RECTILINEAR
+
+Spot Size : 0.29045928118447506
+
 ```
 
 ### Sample2
-<img src="" width=400 height=400>
+<img src="Wallpapers/15.png" width=400 height=400>	
+
 ```
+F1 : 46.739*math.floor(y**2*x)**1.444-18.103*math.sin(y**2)**1.871-11.165*math.cos(x**2)**1.07-14.044*math.cos(y**2*x)**1.885-23.404*math.sin(x)**1.175+42.816*math.sin(y-x)**1.572
+
+F2 : 37.384*abs(x)**1.811+33.06*math.sin(x*y)**1.415+16.468*abs(x)**1.817+14.806*math.ceil(y-x)**1.042+45.238*abs(y)**1.204
+
+Seed : 202731
+
+Color : (0.465, 0.35, 0.247)
+
+Projection : Projection.RECTILINEAR
+
+Spot Size : 1.9499281137566082
+
 ```
 
 ### Sample3
-<img src="" width=400 height=400>
+<img src="Wallpapers/21.png" width=400 height=400>	
+
 ```
+F1 : 11.516*x+y**1.034-42.219*math.sin(x)**1.423
+
+F2 : 41.56*math.sin(y**2)**1.011
+
+Seed : 728376
+
+Color : (0.206, 0.164, 0.005)
+
+Projection : Projection.POLAR
+
+Spot Size : 1.7475050745556027
+
 ```
 
 For more example take a look at [Wallpapers]() folder

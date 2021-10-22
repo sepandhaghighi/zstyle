@@ -1,0 +1,11 @@
+F1 : 11.516*x+y**1.034-42.219*math.sin(x)**1.423
+
+F2 : 41.56*math.sin(y**2)**1.011
+
+Seed : 728376
+
+Color : (0.206, 0.164, 0.005)
+
+Projection : Projection.POLAR
+
+Spot Size : 1.7475050745556027

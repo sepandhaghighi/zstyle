@@ -1,0 +1,11 @@
+F1 : 45.02*x*y**1.492-20.864*abs(x+y)**1.281+19.638*math.cos(y**2*x)**1.465+25.763*math.floor(x**2)**1.55+2.717*x-y**1.604
+
+F2 : 2.887*abs(x+y)**1.337+27.972*math.ceil(y**2)**1.003-47.679*math.ceil(y-x)**1.72+28.862*math.ceil(x+y)**1.636
+
+Seed : 683434
+
+Color : (0.095, 0.314, 0.32)
+
+Projection : Projection.POLAR
+
+Spot Size : 0.5363746713509024
