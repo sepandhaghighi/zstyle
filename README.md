@@ -94,7 +94,7 @@ Spot Size : 1.7475050745556027
 
 ```
 
-For more example take a look at [Wallpapers]() folder
+For more example take a look at [Wallpapers](Wallpapers/) folder
 
 
 ## Z-Style Avatars
@@ -157,7 +157,7 @@ Spot Size : 0.6440937532451008
 
 ```
 
-For more example take a look at [Z_Style]() folder
+For more example take a look at [Z_Style](Z_Style/) folder
 
 ## Technical Details
 A transformation between a square-shaped space from the Cartesian coordinate system to any arbitrary coordination like [Polar coordinate system](https://en.wikipedia.org/wiki/Polar_coordinate_system).
