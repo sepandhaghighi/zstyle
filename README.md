@@ -12,7 +12,7 @@
 
 <p align="justify">	
 In this work I tried to generate generative arts for <a href="https://gitcoin.co/issue/Zilliqa/Zilliqa/2714/100026476">[ZILLIQA ON GITCOIN: NFTs BEYOND ART] Generative Art Pieces</a> that can serve as unique memorabilia or even avatars.
-This project is based on our other library called <a href="https://github.com/sepandhaghighi/samila">Samila</a> and consist of two main part:
+This project is based on our other library called <a href="https://github.com/sepandhaghighi/samila">Samila</a> and consist of two main parts:
 
 1. Generative Wallpapers
 2. Generative Z-Style Avatars
@@ -29,7 +29,7 @@ This project is based on our other library called <a href="https://github.com/se
 
 ## Generative Wallpapers
 
-`python3 rand_gen.py`
+- Run `python3 rand_gen.py`
 
 This part lets you create infinite unique wallpapers based on many thousand points. The position of every single point is calculated by a formula, which has random parameters. Because of the random numbers, every image looks different.
 
@@ -99,7 +99,7 @@ For more example take a look at [Wallpapers](Wallpapers/) folder
 
 ## Z-Style Avatars
 
-`python3 rand_gen.py`
+- Run `python3 z_style_gen.py`
 
 This part lets you create infinite unique z-style avatars based on many thousand points. The position of every single point is calculated by a formula, which has random parameters. Because of the random numbers, every image looks different.
 
