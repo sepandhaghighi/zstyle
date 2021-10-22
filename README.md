@@ -1,7 +1,7 @@
 <div align="center">
 <img src="otherfiles/logo.png" width=400 height=400>
 <br/>
-<h1>Zil Gen</h1>
+<h1>Z-Style</h1>
 </div>
 
 ----------
@@ -11,7 +11,7 @@
 
 
 <p align="justify">	
-In this work I tried to generate generative arts for <a href="https://gitcoin.co/issue/Zilliqa/Zilliqa/2714/100026476">[ZILLIQA ON GITCOIN: NFTs BEYOND ART] Generative Art Pieces</a> that can serve as unique memorabilia or even avatars.
+In Z-Style I tried to generate generative arts for <a href="https://gitcoin.co/issue/Zilliqa/Zilliqa/2714/100026476">[ZILLIQA ON GITCOIN: NFTs BEYOND ART] Generative Art Pieces</a> that can serve as unique memorabilia or even avatars.
 This project is based on our other library called <a href="https://github.com/sepandhaghighi/samila">Samila</a> and consist of two main parts:
 
 1. Generative Wallpapers
