@@ -25,7 +25,7 @@ This project is based on our other library called <a href="https://github.com/se
 1. [Samila](https://github.com/sepandhaghighi/samila)
 2. [Art](https://github.com/sepandhaghighi/art)
 
-`pip3 install -r requirements.txt`
+Run `pip3 install -r requirements.txt`
 
 ## Generative Wallpapers
 
